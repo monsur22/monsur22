@@ -7,6 +7,9 @@
 monsur22/monsur22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Monsur's GitHub stats](https://github-readme-stats.vercel.app/api?username=monsur22&show_icons=true&theme=radical)](https://github.com/monsur22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monsur22&layout=compact)](https://github.com/monsur22/github-readme-stats)
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="150" title="hover text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="150" alt="accessibility text">
