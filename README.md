@@ -18,5 +18,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="150" alt="accessibility text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="150" alt="accessibility text">
   <img src="https://redux.js.org/img/redux.svg" width="150" alt="accessibility text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="150" alt="accessibility text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="150" alt="accessibility text">
+  
 
 </p>
