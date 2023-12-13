@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="150" title="hover text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="150" alt="accessibility text">
   <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/CodeIgniter.png" width="150" alt="accessibility text">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="150" alt="accessibility text">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="150" alt="accessibility text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="150" alt="accessibility text">
   <img src="https://redux.js.org/img/redux.svg" width="150" alt="accessibility text">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="150" alt="accessibility text">
