@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monsur22. I am a Software Engineer at One-Proof Ltd Dhaka Branch.
-- 👀 I’m interested in Web Technology like PHP,Laravel,React,Javascript,Nodejs,Express
+- 👀 I’m interested in Web Technology like PHP,Laravel,React,Javascript.
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me with my Email: monsurahmedshafiq@gmail.com Facebook: https://www.facebook.com/IamMonsur/
 
